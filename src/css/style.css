@@ -12,8 +12,8 @@
 
 .card {
 
-    margin: 8px;
-    padding: 4px;
+    margin: 15px;
+    padding: 8px;
     --border-size: 3px;
     --border-angle: 0deg;
     background-image: conic-gradient(from var(--border-angle), rgb(17, 51, 31), rgb(18, 39, 19) 50%, rgb(31, 51, 17)),
@@ -70,6 +70,11 @@ p {
     font-family: "Poppins", sans-serif;
     font-size: 14px;
 }
+
+.card .btn {
+    margin-bottom: 10px; 
+  }
+  
 
 .email,
 .icons {
