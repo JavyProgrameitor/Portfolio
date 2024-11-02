@@ -6,22 +6,27 @@
 }
 
 .container {
-    background-color: #8FBC8F;
-    font-weight: bold;
+    
+    background: linear-gradient(to left, rgba(216, 201, 133, 0.829), rgba(207, 170, 7, 0.678));
 }
 
 #card-title {
+    margin: 20px;
     font-family: "Poppins", sans-serif;
     color: rgb(117, 229, 25);
 }
 
 
 .card {
-
+    border-radius: 30px;
     margin: 15px;
     padding: 8px;
-    --border-size: 3px;
+    border-radius: 20px;
+    --border-size: 2px;
     --border-angle: 0deg;
+    transition: transform 0.3s ease; 
+    transform-style: preserve-3d; 
+    perspective: 1000px;
     background-image: conic-gradient(from var(--border-angle), rgb(17, 51, 31), rgb(18, 39, 19) 50%, rgb(31, 51, 17)),
         conic-gradient(from var(--border-angle), transparent 20%, rgb(245, 209, 6), rgba(82, 250, 5, 0.801));
     background-size: calc(100% - (var(--border-size) * 2)) calc(100% - (var(--border-size) * 2)), cover;
@@ -29,10 +34,6 @@
     background-repeat: no-repeat;
     animation: bg-spin 20s linear infinite;
     transition: --border-angle 1s ease;
-}
-.card:hover {
-    --border-angle: 1turn; 
-     background-size: calc(100% - (var(--border-size) * 2)) calc(100% - (var(--border-size) * 2)), cover;
 }
 
 @keyframes bg-spin {
@@ -48,7 +49,6 @@
 }
 
 header {
-   
     background: linear-gradient(to right, rgb(0, 128, 43), rgb(52, 133, 102));
     text-align: center;
     padding: 20px;
@@ -77,14 +77,11 @@ p {
     font-size: 14px;
 }
 
-.card .btn {
-    margin-bottom: 10px; 
-  }
   .button-container {
     display: flex; 
     justify-content: space-evenly;
     gap: 10px; 
-    margin-top: 10px;
+    margin: 10px;
 }
 
 .email,
