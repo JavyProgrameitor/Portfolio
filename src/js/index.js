@@ -8,8 +8,8 @@ document.addEventListener('DOMContentLoaded', () => {
       let positionY = window.innerHeight;
 
    
-      let moveX = (e.clientX / positionX - 0.5) * 60; 
-      let moveY = (e.clientY / positionY - 0.5) * 60; 
+      let moveX = (e.clientX / positionX - 0.5) * 50; 
+      let moveY = (e.clientY / positionY - 0.5) * 50; 
 
      
       card.style.transform = `rotateY(${moveX}deg) rotateX(${moveY}deg)`;
