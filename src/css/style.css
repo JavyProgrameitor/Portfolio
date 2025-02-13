@@ -98,14 +98,14 @@ footer {
 }
 
 .sf-book-cover {
-  width: 200px;
+  width: 230px;
   margin: 0 auto 30px;
 }
 .sf-book-cover .book-wrapper {
   display: block;
   position: relative;
-  width: 200px;
-  height: 400px;
+  width: 230px;
+  height: 370px;
   perspective: 900px;
   transition: all 0.2s ease-in-out;
 }
