@@ -1,0 +1,88 @@
+{
+  "projects": [
+      {
+      "title": "App control",
+      "image": "src/img/appControlDiario.png",
+      "liveUrl": "https://appinfoex.vercel.app/",
+      "codeUrl": "https://github.com/JavyProgrameitor/APPINFOEX/"
+    },
+    {
+      "title": "Encoding and image",
+      "image": "src/img/words.jpg",
+      "liveUrl": "https://javyprogrameitor.github.io/EncodedMessage/",
+      "codeUrl": "https://github.com/JavyProgrameitor/EncodedMessage/"
+    },
+    {
+      "title": "The time remaining",
+      "image": "src/img/calender.jpeg",
+      "liveUrl": "https://javyprogrameitor.github.io/Countdown/",
+      "codeUrl": "https://github.com/JavyProgrameitor/Countdown/"
+    },
+    {
+      "title": "Validate credit cards",
+      "image": "src/img/cajeros.jpeg",
+      "liveUrl": "https://javyprogrameitor.github.io/CreditCardForm/",
+      "codeUrl": "https://github.com/JavyProgrameitor/CreditCardForm/"
+    },
+    {
+      "title": "Explosive card game",
+      "image": "src/img/players.jpeg",
+      "liveUrl": "https://javyprogrameitor.github.io/ExplodingCards/",
+      "codeUrl": "https://github.com/JavyProgrameitor/ExplodingCards/"
+    },
+    {
+      "title": "Share your expenses",
+      "image": "src/img/friends.jpeg",
+      "liveUrl": "https://javyprogrameitor.github.io/Divvy/",
+      "codeUrl": "https://github.com/JavyProgrameitor/Divvy/"
+    },
+    {
+      "title": "Customizer your shirts",
+      "image": "src/img/valiant-shirt.jpg",
+      "liveUrl": "https://javyprogrameitor.github.io/Customer/",
+      "codeUrl": "https://github.com/JavyProgrameitor/Customer/"
+    },
+    {
+      "title": "Paly game Attack",
+      "image": "src/img/arcade.jpg",
+      "liveUrl": "https://javierprogrameitor.itch.io/attack/",
+      "codeUrl": "https://github.com/JavyProgrameitor/Attack/"
+    },
+    {
+      "title": "Keep your notes",
+      "image": "src/img/notes.jpeg",
+      "liveUrl": "https://javyprogrameitor.github.io/StickyNotes/",
+      "codeUrl": "https://github.com/JavyProgrameitor/StickyNotes/"
+    },
+    {
+      "title": "Gas Station API",
+      "image": "src/img/gas.jpeg",
+      "liveUrl": "https://javyprogrameitor.github.io/APIGasStation/",
+      "codeUrl": "https://github.com/JavyProgrameitor/APIGasStation/"
+    },
+    {
+      "title": "Spotify app clone",
+      "image": "src/img/spotify.jpeg",
+      "liveUrl": "https://javyprogrameitor.github.io/ClonSpotify/",
+      "codeUrl": "https://github.com/JavyProgrameitor/ClonSpotify/"
+    },
+    {
+      "title": "Forms in React",
+      "image": "src/img/forms.png",
+      "liveUrl": "https://react-form-vercel.vercel.app/",
+      "codeUrl": "https://github.com/JavyProgrameitor/React-Form"
+    },
+    {
+      "title": "React API Films",
+      "image": "src/img/cartel.png",
+      "liveUrl": "https://api-react-film.vercel.app/",
+      "codeUrl": "https://github.com/JavyProgrameitor/API-React-Film/"
+    },
+    {
+      "title": "React Router Gift",
+      "image": "src/img/gitfs.png",
+      "liveUrl": "https://task10-react-router.vercel.app/",
+      "codeUrl": "https://github.com/javierprogrameitor/Task10-ReactRouter/"
+    }
+  ]
+}
